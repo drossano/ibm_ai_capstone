@@ -1,3 +1,4 @@
+*.model.keras
 *.keras
 *.pth
 images_dataSAT/*
